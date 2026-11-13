@@ -1,0 +1,1 @@
+{"agent_type": "openai", "agent_name": "Qwen/Qwen2.5-7B-Instruct", "method_name": "kroma", "task": "envo_sweet", "query_options": {"prompt_template": "default"}}

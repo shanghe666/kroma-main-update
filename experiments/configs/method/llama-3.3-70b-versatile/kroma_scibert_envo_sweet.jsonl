@@ -1,0 +1,1 @@
+{"agent_type": "openai", "agent_name": "llama-3.3-70b-versatile", "method_name": "kroma_scibert_envo_sweet", "task": "envo_sweet", "query_options": {"labels": true, "parents": true, "children": true, "synonyms": true, "definition": true, "rag": true}}

@@ -1,0 +1,6 @@
+{
+
+    "envo": "experiments/dataset/OAEI/Biodiv/envo_dict.jsonl",
+    "sweet": "experiments/dataset/OAEI/Biodiv/sweet_dict.jsonl"
+
+}
